@@ -7,6 +7,7 @@
 }
 
 /** Variables et couleurs **/
+
 :root {
   --color-1: #124682ff;
   --color-2: #3184D9ff;
@@ -21,6 +22,7 @@
 
 
 /** Partie "header" **/
+
 header {
 
   font-size: var(--font-adapt-h);
